@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+* DevOps Tools I use
+  * Terraform
+  * Chef
+  * Git
+  * Jenkins
+  * Ansible
+  * Azure DevOps
+  
